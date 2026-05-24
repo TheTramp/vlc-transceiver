@@ -110,3 +110,6 @@ ffmpeg -f lavfi -i testsrc=size=1280x720:rate=15 \
 
 For details on the ANSI X3T9.5 4B5B translation map and clock synchronizations, consult [`4B5B encoding.png`](hardware/4B5B%20encoding.png).
 
+## Hardware Demonstration
+Watch the 1-minute real-time demonstration of the VLC system streaming video via the 10W LED: 
+[Click here to watch the demo on YouTube](https://youtube.com/shorts/aaMfWNTAqAo)
