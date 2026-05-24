@@ -1,11 +1,29 @@
-Compiled Object files and Binaries*.slo*.lo*.o.obj
+# Compiled Object files and Binaries
+*.slo
+*.lo
+*.o
+*.obj
 .out
 .exe
+
+# Executables
 vlc_tx
 vlc_rx
 vlc_benchmark
 ber_tx
-ber_rxPython caches and virtual environments (from your data viz scripts)pycache/*.py[cod]*$py.classvenv/env/OS generated files.DS_StoreThumbs.db
+ber_rx
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
 # Media and Test Files
 *.mp4
 *.mov
