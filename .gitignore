@@ -1,0 +1,8 @@
+Compiled Object files and Binaries*.slo*.lo*.o.obj
+.out
+.exe
+vlc_tx
+vlc_rx
+vlc_benchmark
+ber_tx
+ber_rxPython caches and virtual environments (from your data viz scripts)pycache/*.py[cod]*$py.classvenv/env/OS generated files.DS_StoreThumbs.db
