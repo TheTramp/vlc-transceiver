@@ -6,3 +6,8 @@ vlc_rx
 vlc_benchmark
 ber_tx
 ber_rxPython caches and virtual environments (from your data viz scripts)pycache/*.py[cod]*$py.classvenv/env/OS generated files.DS_StoreThumbs.db
+# Media and Test Files
+*.mp4
+*.mov
+*.avi
+*.mkv
